@@ -1,0 +1,55 @@
+2024-11-27 15:05:29 - Key Pressed: e
+2024-11-27 15:05:29 - Key Pressed: h
+2024-11-27 15:05:29 - Key Pressed: s
+2024-11-27 15:05:30 - Key Pressed: j
+2024-11-27 15:05:30 - Key Pressed: f
+2024-11-27 15:05:38 - Key Pressed: s
+2024-11-27 15:05:38 - Key Pressed: d
+2024-11-27 15:05:39 - Key Pressed: s
+2024-11-27 15:05:39 - Key Pressed: d
+2024-11-27 15:05:39 - Key Pressed: s
+2024-11-27 15:05:39 - Key Pressed: d
+2024-11-27 15:05:39 - Key Pressed: s
+2024-11-27 15:05:39 - Key Pressed: d
+2024-11-27 15:05:39 - Key Pressed: s
+2024-11-27 15:05:39 - Key Pressed: d
+2024-11-27 15:05:40 - Key Pressed: s
+2024-11-27 15:05:40 - Key Pressed: d
+2024-11-27 15:05:49 - Key Pressed: s
+2024-11-27 15:05:49 - Key Pressed: d
+2024-11-27 15:05:49 - Key Pressed: s
+2024-11-27 15:05:50 - Key Pressed: d
+2024-11-27 15:05:50 - Key Pressed: s
+2024-11-27 15:05:50 - Key Pressed: d
+2024-11-27 15:05:50 - Key Pressed: s
+2024-11-27 15:05:50 - Key Pressed: d
+2024-11-27 15:05:50 - Key Pressed: d
+2024-11-27 15:14:32 - Field: username - Key Pressed: 
+2024-11-27 15:14:32 - Field: password - Key Pressed: Shift
+2024-11-27 15:14:33 - Field: password - Key Pressed: P
+2024-11-27 15:14:33 - Field: password - Key Pressed: a
+2024-11-27 15:14:33 - Field: password - Key Pressed: s
+2024-11-27 15:14:33 - Field: password - Key Pressed: s
+2024-11-27 15:14:33 - Field: password - Key Pressed: w
+2024-11-27 15:14:33 - Field: password - Key Pressed: o
+2024-11-27 15:14:34 - Field: password - Key Pressed: r
+2024-11-27 15:14:34 - Field: password - Key Pressed: d
+2024-11-27 15:14:48 - Field: cardNumber - Key Pressed: s
+2024-11-27 15:14:48 - Field: cardNumber - Key Pressed: d
+2024-11-27 15:14:48 - Field: cardNumber - Key Pressed: s
+2024-11-27 15:14:48 - Field: cardNumber - Key Pressed: d
+2024-11-27 15:14:48 - Field: expiryDate - Key Pressed: s
+2024-11-27 15:14:48 - Field: expiryDate - Key Pressed: d
+2024-11-27 15:14:49 - Field: expiryDate - Key Pressed: s
+2024-11-27 15:14:49 - Field: expiryDate - Key Pressed: d
+2024-11-27 15:16:27 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace
+2024-11-27 15:16:28 - Field: cardNumber - Key Pressed: Backspace

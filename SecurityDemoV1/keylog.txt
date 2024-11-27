@@ -1,0 +1,11 @@
+2024-11-27 15:17:18 - Field: cardNumber - Key Pressed: e
+2024-11-27 15:17:18 - Field: cardNumber - Key Pressed: w
+2024-11-27 15:17:18 - Field: cardNumber - Key Pressed: e
+2024-11-27 15:17:18 - Field: cardNumber - Key Pressed: w
+2024-11-27 15:17:19 - Field: cardNumber - Key Pressed: e
+2024-11-27 15:17:25 - Field: expiryDate - Key Pressed: w
+2024-11-27 15:17:25 - Field: expiryDate - Key Pressed: e
+2024-11-27 15:17:25 - Field: expiryDate - Key Pressed: w
+2024-11-27 15:17:25 - Field: expiryDate - Key Pressed: e
+2024-11-27 15:17:25 - Field: expiryDate - Key Pressed: w
+2024-11-27 15:17:25 - Field: expiryDate - Key Pressed: e
