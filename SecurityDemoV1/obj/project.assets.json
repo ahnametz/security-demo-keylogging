@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\SecurityDemoV1.csproj",
+      "projectUniqueName": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\SecurityDemoV1.csproj",
       "projectName": "SecurityDemoV1",
-      "projectPath": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\SecurityDemoV1.csproj",
+      "projectPath": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\SecurityDemoV1.csproj",
       "packagesPath": "C:\\Users\\ahnam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\obj\\",
+      "outputPath": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahnam\\AppData\\Roaming\\NuGet\\NuGet.Config",

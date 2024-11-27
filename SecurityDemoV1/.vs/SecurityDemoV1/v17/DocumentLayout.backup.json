@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\",
+  "WorkspaceRootPath": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\models\\keylogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\models\\keylogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:models\\keylogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\home\\creditcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\home\\creditcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\home\\creditcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\bais3110\\securitydemov1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|c:\\users\\ahnam\\onedrive - nait\\baist 2024-2025\\year 3 sem 1\\bais3110\\security-demo-keylogging\\securitydemov1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95BB528-4D66-408E-A332-D88A6D264A61}|SecurityDemoV1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -84,102 +84,95 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T22:05:43.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T22:05:43.691Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:52:08.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:52:08.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:51:53.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:51:53.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:51:46.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:51:46.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-27T21:51:37.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:51:37.392Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:51:31.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:51:31.691Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:51:30.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:51:30.643Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "keylog.txt",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\keylog.txt",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\keylog.txt",
               "RelativeDocumentMoniker": "keylog.txt",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\keylog.txt",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\keylog.txt",
               "RelativeToolTip": "keylog.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-11-27T21:32:04.287Z",
               "EditorCaption": ""
@@ -188,92 +181,85 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:29:14.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:29:14.61Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Program.cs",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:27:39.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:27:39.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CreditCard.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\CreditCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\CreditCard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\CreditCard.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\CreditCard.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\CreditCard.cshtml",
               "RelativeToolTip": "Views\\Home\\CreditCard.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:25:11.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:25:11.638Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "KeyLogModel.cs",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Models\\KeyLogModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Models\\KeyLogModel.cs",
               "RelativeDocumentMoniker": "Models\\KeyLogModel.cs",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Models\\KeyLogModel.cs",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Models\\KeyLogModel.cs",
               "RelativeToolTip": "Models\\KeyLogModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:19:05.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:19:05.84Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Models\\UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Models\\UserModel.cs",
               "RelativeToolTip": "Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:17:58.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:17:58.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAUwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:17:23.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:17:23.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\BAIS3110\\SecurityDemoV1\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ahnam\\OneDrive - NAIT\\BAIST 2024-2025\\year 3 sem 1\\BAIS3110\\security-demo-keylogging\\SecurityDemoV1\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Views\\Home\\Login.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T21:17:05.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T21:17:05.724Z"
             }
           ]
         }
